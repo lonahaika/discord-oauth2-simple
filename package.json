@@ -1,12 +1,9 @@
 {
   "name": "discord-oauth2-simple",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Discord OAuth2 client for making dashboard and website linked with discord.",
   "main": "lib/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lonahaika/discord-oauth2-simple.git"
-  },
+  "repository": "https://github.com/lonahaika/discord-oauth2-simple.git",
   "keywords": [
     "passport",
     "discord",
