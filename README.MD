@@ -100,5 +100,5 @@ refresh.requestNewAccessToken('discord', profile.refreshToken, function(err, acc
 An Express server example can be found in the `/example` directory. Be sure to `npm install` in that directory to get the dependencies.
 
 ## License
-Licensed under the ISC license. The full license text can be found in the root of the project repository.
+Licensed under the MIT license. The full license text can be found in the root of the project repository.
 
