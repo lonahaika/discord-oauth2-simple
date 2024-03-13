@@ -15,7 +15,7 @@ strategy. The strategy also requires a `verify` callback, which receives the acc
 user's profile. The `verify` callback must also call `cb` providing a user to complete the authentication.
 
 ```javascript
-const DiscordStrategy = require('discord-auth').Strategy;
+const DiscordStrategy = require('discord-oauth2-simple').Strategy;
 
 const scopes = ['identify', 'email', 'guilds', 'guilds.join'];
 
